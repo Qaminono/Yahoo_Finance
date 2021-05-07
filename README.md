@@ -4,4 +4,4 @@ The project was created to collect information from https://finance.yahoo.com, a
 
 The 'Rest_Service' directory contains the Django project, which outputs data from the database.
 
-The 'Skraper' directory contains code whitch collect data and posts it to the Rest service.
+The 'Scrapper' directory contains code whitch collect data and posts it to the Rest service.
