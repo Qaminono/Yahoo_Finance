@@ -15,7 +15,7 @@ There are few steps to run this service in Docker container:
   
   4. Done. Now go to http://127.0.0.1:8000.
 
-Since there is no data here, we need to get it. This will be done by the script, which is in the 'Scrapper' directory.
+Since there is no data here, we need to get it. This will be done by the script, which is in the 'scrapper' directory.
 
 After filling the database, the json of all the data will be available by GET request for the link http://127.0.0.1:8000.
 
