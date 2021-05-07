@@ -1,8 +1,7 @@
 There are few steps to run this script:
-  1. Create a new directory on your computer and clone the repo into it.
+  1. Go to scrapper directory from directory with repo clone.
   
-    $ cd ~/<some_dir>
-    $ git clone https://github.com/Qaminono/Yahoo_Finance/new/main/Skraper
+    $ cd ~/scrapper
    
   2. Then install the software packages specified by Pipenv and start a new shell.
   
