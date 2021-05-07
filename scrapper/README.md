@@ -1,5 +1,5 @@
 There are few steps to run this script:
-  1. Go to scrapper directory from directory with repo clone.
+  1. Go to scrapper directory from directory with the repo clone.
   
     $ cd ~/scrapper
    
