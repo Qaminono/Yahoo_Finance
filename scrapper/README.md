@@ -12,4 +12,4 @@ There are few steps to run this script:
     
     $ python main.py
   
-  The script will run in automatic mode. It will go through all the companies that are defined in the "companies" variable, find the data on the site, download it, and post it to the Rest service. If the company is not found, the following message will be displayed: 'No matches for "<company-name>" were found.
+  The script will run in automatic mode. It will go through all the companies that are defined in the "companies" variable, find the data on the site, download it, and post it to the Rest service. If the company is not found, the following message will be displayed: 'No matches for "|company-name|" were found.
