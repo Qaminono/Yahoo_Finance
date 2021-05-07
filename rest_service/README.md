@@ -22,4 +22,4 @@ After filling the database, the json of all the data will be available by GET re
 
 If you want to sort the data by company, the request must contain the attribute "company" with the company name. For example: http://127.0.0.1:8000?company=PD
 
-PUT and DELETE requests are available if you specify the record's unique 'id'. For example: http://127.0.0.1:8000/0
+PUT and DELETE requests are available if you specify the record's unique 'id'. For example: http://127.0.0.1:8000/1
