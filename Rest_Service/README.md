@@ -3,6 +3,7 @@ There are few steps to run this service in Docker container:
   
     cd ~/some_dir
     git clone https://github.com/Qaminono/Yahoo_Finance
+    cd Rest_Service
  
   2. Now start the Docker container using the up command, adding the -d flag so it runs in detached mode, and the --build flag to build our initial image. If we did not add this flag, we'd need to open a separate command line tab to execute commands.
   
