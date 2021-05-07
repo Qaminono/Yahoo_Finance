@@ -13,3 +13,5 @@ There are few steps to run this service in Docker container:
     docker-compose exec web python manage.py migrate
   
   4. Done. Now go to http://127.0.0.1:8000.
+
+Since there is no data here, we need to get it. This will be done by the script, which is in the 'Skraper' directory.
