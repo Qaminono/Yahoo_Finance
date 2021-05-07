@@ -1,7 +1,7 @@
 There are few steps to run this script:
   1. Go to scrapper directory from directory with the repo clone.
   
-    $ cd ~/scrapper
+    $ cd ~/Yahoo_Finance/scrapper
    
   2. Then install the software packages specified by Pipenv and start a new shell.
   
