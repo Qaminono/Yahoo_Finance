@@ -1,5 +1,5 @@
 There are few steps to run this service in Docker container:
-  1. Create a new directory on your mashine and clone the repo into it.
+  1. Create a new directory on your computer and clone the repo into it.
   
     cd ~/some_dir
     git clone https://github.com/Qaminono/Yahoo_Finance/tree/main/Rest_Service
